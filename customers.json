@@ -1,0 +1,110 @@
+[
+  {
+    "customerId": "CUST-001",
+    "name": "Ada Lovelace",
+    "email": "ada@example.com",
+    "status": "ACTIVE",
+    "tier": "GOLD",
+    "creditLimit": 5000,
+    "country": "US"
+  },
+  {
+    "customerId": "CUST-002",
+    "name": "Grace Hopper",
+    "email": "grace@example.com",
+    "status": "ACTIVE",
+    "tier": "SILVER",
+    "creditLimit": 3000,
+    "country": "US"
+  },
+  {
+    "customerId": "CUST-003",
+    "name": "Alan Turing",
+    "email": "alan@example.com",
+    "status": "ACTIVE",
+    "tier": "GOLD",
+    "creditLimit": 10000,
+    "country": "GB"
+  },
+  {
+    "customerId": "CUST-004",
+    "name": "Katherine Johnson",
+    "email": "katherine@example.com",
+    "status": "ACTIVE",
+    "tier": "BRONZE",
+    "creditLimit": 1500,
+    "country": "US"
+  },
+  {
+    "customerId": "CUST-005",
+    "name": "Linus Torvalds",
+    "email": "linus@example.com",
+    "status": "ACTIVE",
+    "tier": "SILVER",
+    "creditLimit": 4000,
+    "country": "FI"
+  },
+  {
+    "customerId": "CUST-006",
+    "name": "Margaret Hamilton",
+    "email": "margaret@example.com",
+    "status": "ACTIVE",
+    "tier": "GOLD",
+    "creditLimit": 8000,
+    "country": "US"
+  },
+  {
+    "customerId": "CUST-007",
+    "name": "Tim Berners-Lee",
+    "email": "tim@example.com",
+    "status": "ACTIVE",
+    "tier": "SILVER",
+    "creditLimit": 2500,
+    "country": "GB"
+  },
+  {
+    "customerId": "CUST-008",
+    "name": "Chinedu Okafor",
+    "email": "chinedu@example.com",
+    "status": "ACTIVE",
+    "tier": "BRONZE",
+    "creditLimit": 2000,
+    "country": "NG"
+  },
+  {
+    "customerId": "CUST-009",
+    "name": "Amaka Eze",
+    "email": "amaka@example.com",
+    "status": "ACTIVE",
+    "tier": "SILVER",
+    "creditLimit": 3500,
+    "country": "NG"
+  },
+  {
+    "customerId": "CUST-010",
+    "name": "Dennis Ritchie",
+    "email": "dennis@example.com",
+    "status": "INACTIVE",
+    "tier": "BRONZE",
+    "creditLimit": 1000,
+    "country": "US"
+  },
+  {
+    "customerId": "CUST-011",
+    "name": "Barbara Liskov",
+    "email": "barbara@example.com",
+    "status": "SUSPENDED",
+    "tier": "SILVER",
+    "creditLimit": 2000,
+    "country": "US"
+  },
+  {
+    "customerId": "CUST-012",
+    "name": "Ken Thompson",
+    "email": "",
+    "status": "ACTIVE",
+    "tier": "BRONZE",
+    "creditLimit": 1000,
+    "country": "US"
+  }
+]

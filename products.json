@@ -1,0 +1,107 @@
+[
+  {
+    "productCode": "P-100",
+    "description": "Widget",
+    "unitPrice": 29.99,
+    "active": true,
+    "stock": 500
+  },
+  {
+    "productCode": "P-200",
+    "description": "Gadget",
+    "unitPrice": 69.99,
+    "active": true,
+    "stock": 300
+  },
+  {
+    "productCode": "P-300",
+    "description": "Premium Gizmo",
+    "unitPrice": 49.5,
+    "active": true,
+    "stock": 120
+  },
+  {
+    "productCode": "P-400",
+    "description": "USB Cable",
+    "unitPrice": 9.99,
+    "active": true,
+    "stock": 2000
+  },
+  {
+    "productCode": "P-500",
+    "description": "Power Adapter",
+    "unitPrice": 14.5,
+    "active": true,
+    "stock": 800
+  },
+  {
+    "productCode": "P-600",
+    "description": "Keyboard",
+    "unitPrice": 89.0,
+    "active": true,
+    "stock": 150
+  },
+  {
+    "productCode": "P-700",
+    "description": "Mouse",
+    "unitPrice": 25.0,
+    "active": true,
+    "stock": 400
+  },
+  {
+    "productCode": "P-800",
+    "description": "Monitor",
+    "unitPrice": 199.99,
+    "active": true,
+    "stock": 5
+  },
+  {
+    "productCode": "P-900",
+    "description": "Laptop Stand",
+    "unitPrice": 39.99,
+    "active": true,
+    "stock": 220
+  },
+  {
+    "productCode": "P-110",
+    "description": "USB Hub",
+    "unitPrice": 22.75,
+    "active": true,
+    "stock": 310
+  },
+  {
+    "productCode": "P-120",
+    "description": "Webcam",
+    "unitPrice": 59.9,
+    "active": true,
+    "stock": 90
+  },
+  {
+    "productCode": "P-130",
+    "description": "Headset",
+    "unitPrice": 79.0,
+    "active": true,
+    "stock": 140
+  },
+  {
+    "productCode": "P-140",
+    "description": "Desk Lamp",
+    "unitPrice": 34.25,
+    "active": true,
+    "stock": 75
+  },
+  {
+    "productCode": "P-150",
+    "description": "Phone Case",
+    "unitPrice": 12.0,
+    "active": false,
+    "stock": 0
+  },
+  {
+    "productCode": "P-160",
+    "description": "Legacy Charger",
+    "unitPrice": 8.0,
+    "active": false,
+    "stock": 0
+  }
+]
